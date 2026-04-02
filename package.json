@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "@vercel/functions": "^3.4.3",
-    "pg": "^8.20.0"
+    "@vercel/functions": "^2.2.13",
+    "pg": "^8.12.0"
   }
 }
